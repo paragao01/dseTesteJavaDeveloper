@@ -31,7 +31,7 @@ e testes unitários (JUnit 4), em uma estrutura padrão Maven.
 ### Como Compilar e Rodar
 
 Requisitos:
-- Java 11+ instalado (`java`, `javac` no PATH).
+- Java 8+ instalado (`java`, `javac` no PATH).
 - Maven instalado (`mvn` no PATH).
 
 No diretório raiz do projeto (`dse-teste-vagaDeveloper`), execute:
