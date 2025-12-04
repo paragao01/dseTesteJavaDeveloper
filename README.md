@@ -77,9 +77,5 @@ Também é possível passar a entrada diretamente pela linha de comando:
 mvn exec:java -Dexec.args=abc
 ```
 
-### Observações
-
-- A lógica de anagramas e os testes unitários seguem de perto o código fornecido no documento da prova, porém com ajustes e documentação em PT-BR.
-- Outras respostas teóricas presentes no documento (equals/hashCode, Adapter, SQL, cenários de testes etc.) podem ser facilmente adicionadas em novos pacotes/classes se você quiser evoluir este projeto como um portfólio.
 
 
